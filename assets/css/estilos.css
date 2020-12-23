@@ -1,0 +1,114 @@
+
+
+h1{
+    color: rgb(0, 0, 0);
+   
+}
+.contenedorprincipal{
+background-image: url(..//img/fondo.jpg);
+background-size: cover;
+ 
+
+}
+
+
+.fondo{
+    width: 100%;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.694);
+}
+
+
+.colmuna01 {
+
+   
+    padding-top: 70px;
+    padding-left: 40px !important;
+    
+
+}
+
+.autor{
+    color:rgb(57, 57, 57);
+}
+
+.columna02 {
+    
+    padding-top: 20px;
+    padding-left: 20px !important;
+    
+
+}
+
+
+
+.columna03 {
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+
+.columna05{
+    
+    padding-top: 20px;
+   
+
+}
+.contenido{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+.columna06{
+    background-color: rgba(255, 255, 255, 0.475);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.publicidadsecundaria{
+    width: 100%;
+    
+}
+
+.subnoticias{
+    color:black;
+    font-size: 22px;
+    font-style: normal;
+    padding-bottom: 20px;
+}
+
+.lomasleido{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-size: 12px;
+}
+
+.descripcion{
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.68);
+    padding-left: 20px;
+}    
+
+.autor{
+    font-size: 14px;
+}
+
+.imagenprincipal{
+    width: 100%;
+}
+
+.publicidadprincipal{
+    width: 100%;
+    
+    
+}
+
+.one{
+    border: none;
+    height: 1px;
+    background-color: black;
+}
